@@ -99,7 +99,7 @@ class computerdetails{
       
       Account("Axis",100000)
 
-
+////example
 
       let fruits=["apple","banana","orange"]
       fruits.push("grapes","papaya")
@@ -181,6 +181,8 @@ class computerdetails{
   var praju = new car ("tata")
   praju.display()
   
+  
+  ////example
   class fooditems{
     constructor(tif,lun,din){
       this.tiffen = tif 
